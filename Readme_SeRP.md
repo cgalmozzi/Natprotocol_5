@@ -59,7 +59,7 @@ This script generates the required reference files for SeRP data analysis.
 Input files are: 
 
 fasta file containing the sequence of each chromosome of the organism of interest
-- S. cerevisiae data is downloaded from SGD ('S288C_reference_sequence_R64-2-1_20150113.fsa')
+- S. cerevisiae data is downloaded from SGD ('S288C_reference_sequence_R64-2-1_20150113.fsa' and 'rna_coding_R64-2-1_20150113.fasta')
 
 text file containing all genes with additional information in tab separated format
 - S. cerevisiae data from SGD, present as excel file ('yeast_transcripts.xlsx')
