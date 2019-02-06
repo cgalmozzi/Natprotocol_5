@@ -252,7 +252,7 @@ The output graphs are saved as png file and as pdf file with position along aver
 
 (2) Kiniry, Stephen J et al. “Trips-Viz: a transcriptome browser for exploring Ribo-Seq data” Nucleic acids research vol. 47,D1 847-852. doi.org/10.1093/nar/gky842 (2018).
 
-(3)	Van Rossum, G. & de Boer, J. Interactively Testing Remote Servers Using the Python Programming Language, CWI Quarterly, 4, Issue 4, 283–303 (1991).
+(3)	G. van Rossum, Python tutorial, Technical Report CS-R9526, Centrum voor Wiskunde en Informatica (CWI), Amsterdam, (May 1995).
 
 (4) Döring, K. et al. Profiling Ssb-Nascent Chain Interactions Reveals Principles of Hsp70-Assisted Folding. Cell 170, 298-311 e220, doi:10.1016/j.cell.2017.06.038 (2017).
 
