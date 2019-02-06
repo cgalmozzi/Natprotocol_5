@@ -152,7 +152,7 @@ The Python installation should take approximately 1-2 hours to install on a reco
 ```
 
 
--   The expected run time for a demo on a recommended computer is approximately half a working day.
+-   The expected run time for a demo on a recommended computer is approximately one hour.
 
 
 
