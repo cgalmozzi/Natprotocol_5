@@ -93,7 +93,7 @@ The Python installation should take approximately 1-2 hours to install on a reco
 
 ## Execution
 
--	all python scripts can be executed either via a standard python environment (IDLE, Sypder etc.) or via shell commands
+-	all python scripts can be executed either via a standard python environment (IDLE, Sypder etc.) or via commands (terminal or console)
 -	for details on usage and help, please type “python Supplementary_script_XXX.py –h”
 
 
@@ -151,14 +151,8 @@ The Python installation should take approximately 1-2 hours to install on a reco
 
 ```
 
-1.	Open Python, it already has a default python editor (IDLE) from which you can run python.
-2.	Save your python scripts with extension .py in one directory 
-3.	Save the “references_yeast” folder, containing all six reference files, in the same directory as the scripts.
-4.	Set the path in the script to a directory for both, input and output files.
-5.	Execute the script (run).
 
-
-The expected run time for a demo on a recommended computer is approximately half a working day.
+-   The expected run time for a demo on a recommended computer is approximately half a working day.
 
 
 
