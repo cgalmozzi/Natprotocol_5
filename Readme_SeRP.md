@@ -21,7 +21,7 @@ Analysis of the generated SeRP data starts by employing publicly available as we
 # Scripts
 
 
-- [Scripts](./Scripts)
+- [scripts](./scripts)
 
 ```
 Supplementary script A (Ribosome_Assignment).
@@ -36,7 +36,7 @@ Supplementary script G (Metagene_Profiles).
 
 # Reference files
 
-- [References_yeast](./References_yeast)
+- [references_yeast](./references_yeast)
 
 ```
 
@@ -52,7 +52,7 @@ yeast_tRNA.pkl
 
 # Build references
 
-- [Build_references](./Build_references)
+- [build_references](./build_references)
 
 This script generates the required reference files for SeRP data analysis. 
 
@@ -90,7 +90,7 @@ The Python installation should take approximately 1-2 hours to install on a reco
 
 # Demo
 
-- [Demo](./Demo)
+- [demo](./demo)
 
 ## Execution
 
