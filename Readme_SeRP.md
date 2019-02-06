@@ -78,9 +78,10 @@ Python is portable: it runs on many Unix variants, on Mac, and on Windows 2000 a
 # Installation Guide
 
 ```
-Download python 3.3.5 from:  https://www.python.org/downloads/
+Download python 3.6 or later from:  https://www.python.org/downloads/
 
-Follow the instruction for installation according to your operating system: https://wiki.python.org/moin/BeginnersGuide/Download
+Follow the instruction for installation according to your operating system: 
+https://wiki.python.org/moin/BeginnersGuide/Download
 
 The Python installation should take approximately 1-2 hours to install on a recommended computer.
 
