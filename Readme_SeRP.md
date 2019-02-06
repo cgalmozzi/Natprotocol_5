@@ -6,7 +6,7 @@
 - [Overview](#overview)
 - [Scripts](#Scripts)
 - [Reference files](#Reference-files)
-- [Build_references](#Build_references)
+- [Build references](#Build-references)
 - [System Requirements](#System-Requirements)
 - [Installation Guide](#Installation-Guide)
 - [Demo](#demo)
