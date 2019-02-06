@@ -178,7 +178,7 @@ value8:   '\t'               [7]
 value9:   norm read - strand [8]
 
 ```
-Three output text files containing information on the footprint length distribution (<sample>_FootprintLength.txt), the number of reads per chromosome, the number of all reads (<sample>_TotalReads.txt) and the gene expression (<sample>_GeneExpression.txt). The text file 'GeneExpression.txt' contains all genes, the sum of all reads per gene [RPM], the gene length, and the normalized sum of all reads [RPKM]. The tag 'included' or 'excluded' is added if the RPM-value is above or below 64 reads, respectively. 
+Three output text files containing information on the footprint length distribution (<sample>_FootprintLength.txt), the number of reads per chromosome, the number of all reads (<sample>_TotalReads.txt) and the gene expression (<sample>_GeneExpression.txt). The text file 'GeneExpression.txt' contains all genes, the sum of all reads per gene [RPM], the gene length, and the normalized sum of all reads [RPKM]. The tag 'included' or 'excluded' is added if the RPM-value is above or below the threshold, respectively. 
 
 These four files serve as input files for the following scripts.
 
@@ -218,7 +218,7 @@ Note: If the ratio, the average or the log2 transform cannot be calculated due t
 
 ## Supplementary script E (Gene_Profiles).
 
-This script generates an enrichment profile for each gene of the given organism. All genes, even those with a read number lower than the given threshold (default: 64) in all samples are included. Introns are automatically removed from the ORF (= x-axis).
+This script generates an enrichment profile for each gene of the given organism. All genes, even those with a read number lower than the given threshold in all samples are included. Introns are automatically removed from the ORF (= x-axis).
 
 The output graph is saved as png file and as pdf file, with position along ORF [codon / aa] in x-axis  and enrichment in y-axis. The mean between two biological replicates is plotted as log2 transform (=black line) and the range between the two replicates is highlighted as grey area. Gaps represent codons or regions of codons that have no reads in either the total translatome sample or the selective translatome sample and can therefore not give an enrichment between selective and total data set or cannot be trans-formed to log2 scale.
 
