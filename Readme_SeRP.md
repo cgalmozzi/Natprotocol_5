@@ -273,7 +273,7 @@ text file containing all genes with additional information in tab separated form
 
 (3)	Van Rossum, G. & de Boer, J. Interactively Testing Remote Servers Using the Python Programming Language, CWI Quarterly, 4, Issue 4, 283–303 (1991).
 
-(4) Doring, K. et al. Profiling Ssb-Nascent Chain Interactions Reveals Principles of Hsp70-Assisted Folding. Cell 170, 298-311 e220, doi:10.1016/j.cell.2017.06.038 (2017).
+(4) Döring, K. et al. Profiling Ssb-Nascent Chain Interactions Reveals Principles of Hsp70-Assisted Folding. Cell 170, 298-311 e220, doi:10.1016/j.cell.2017.06.038 (2017).
 
 # License
 
